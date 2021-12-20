@@ -20,5 +20,6 @@ fields:
   description: layouts/post.njk
   default: layouts/post.njk
 pages:
+- "**/posts/hi.md"
 - "**/posts/hihi.md"
 - "**/posts/你好.md"
