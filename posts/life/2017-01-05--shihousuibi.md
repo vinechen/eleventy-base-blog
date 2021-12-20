@@ -1,10 +1,10 @@
 ---
-layout: layouts/post.njk
 title: 试后碎笔
 date: 2017-01-05
 excerpt: "今天距离二月中旬还有多少天呢"
-tags: [生活记录]
-comments: true
+tags:
+  - 记录
+layout: layouts/post.njk
 published: true
 ---
 一转眼又快过去一周了，考完研后的生活和术后康复极为相似。  
