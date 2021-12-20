@@ -19,3 +19,5 @@ fields:
   label: layout
   description: layouts/post.njk
   default: layouts/post.njk
+pages:
+- "**/posts/你好.md"
