@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post.njk
 title: 如何优雅地观赏8.12英仙座流星雨
 date: 2016-08-11
 excerpt: "较实用的流星雨观赏指南"

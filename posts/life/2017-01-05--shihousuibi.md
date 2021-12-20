@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post.njk
 title: 试后碎笔
 date: 2017-01-05
 excerpt: "今天距离二月中旬还有多少天呢"

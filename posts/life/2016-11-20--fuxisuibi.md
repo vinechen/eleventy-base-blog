@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post.njk
 title: 复习碎笔
 date: 2016-11-20
 excerpt: "今天距离圣诞节还有多少天呢"
